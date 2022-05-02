@@ -36,7 +36,6 @@ function Quote() {
 							<p id="quoteBlock">{quoteText}</p>
 						</div>
 					</div>
-				<script src="/javascripts/quotes.js"></script>
 		</header>
     </div>
 	);
