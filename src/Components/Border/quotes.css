@@ -11,14 +11,12 @@ button{
 	border-radius:3px; 
 	margin-top:30px;
 }
-hr{
-	width:100%;
-}
+
 p{
 	text-align: center;
 	word-wrap: normal;
 	white-space:normal;
-	width:80%;
+	width:50%;
 	margin: 0 auto;
 	padding-top:30px;
 }
