@@ -14,4 +14,16 @@ code {
 
 @import url('https://fonts.googleapis.com');
 @import url('https://fonts.gstatic.com');
-@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+p{
+  font-family: 'Teko', 'Courier New', monospace;
+}
+
+button{
+  border: none;
+  width:150px;
+  height:40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: calc(10px + 0.25em)
+}
