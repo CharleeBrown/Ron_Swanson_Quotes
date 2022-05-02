@@ -18,7 +18,16 @@ hr{
 	text-align: center;
 	word-wrap: normal;
 	white-space:normal;
-	width:80%;
+	max-width:80%;
 	margin: 0 auto;
 	padding-top:30px;
+
+}
+
+#mainrow{
+	
+}
+
+.MainDiv{
+	width:80% !important;
 }

@@ -20,18 +20,16 @@ function Quote() {
 		}
 		
 	return (
-		<div className="qDiv">
+		<div className="MainDiv">
 			<header className="quote-header">
 				<h1>Random Swanson Quotes</h1>
 					<div className="row">
 						<div className="col">
 							<button onClick={() =>getText(quoteText)}>Sage Wisdom</button>
+							< hr/>
 						</div>	
-						
 					</div>
-					< hr/>
-					
-					<div class="row">
+					<div class="row" id="mainrow">
 						<div class="col-sm-12" id="quote">
 							<p id="quoteBlock">{quoteText}</p>
 						</div>
